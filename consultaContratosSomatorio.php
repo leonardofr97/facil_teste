@@ -1,7 +1,7 @@
 <?php
 $nomeServidor = "localhost";
 $nomeUsuario  = "root";
-$senha        = "0wR79!G$22D#";
+$senha        = "";
 $nomeDb       = "sistemaDeContratos";
 
 $conn = new mysqli($nomeServidor, $nomeUsuario, $senha, $nomeDb);
